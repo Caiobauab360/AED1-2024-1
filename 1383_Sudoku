@@ -1,3 +1,6 @@
+// Caio Pereira Bauab, RA:142934
+// Programa em c que confere se o Sudoku está correto ou não
+
 /*#include <stdio.h>
 #include <string.h>
 
